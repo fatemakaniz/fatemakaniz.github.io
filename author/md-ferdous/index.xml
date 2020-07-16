@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Md Ferdous | Kaniz Fatema</title>
+    <link>https://fatemakaniz.github.io/author/md-ferdous/</link>
+      <atom:link href="https://fatemakaniz.github.io/author/md-ferdous/index.xml" rel="self" type="application/rss+xml" />
+    <description>Md Ferdous</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Kaniz Fatema</copyright><lastBuildDate>Fri, 17 Jul 2020 01:08:48 +0600</lastBuildDate>
+    <image>
+      <url>https://fatemakaniz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Md Ferdous</title>
+      <link>https://fatemakaniz.github.io/author/md-ferdous/</link>
+    </image>
+    
+    <item>
+      <title>Global Landslide Analysis using NASA Landslide Data</title>
+      <link>https://fatemakaniz.github.io/publication/landslide-detection/</link>
+      <pubDate>Fri, 17 Jul 2020 01:08:48 +0600</pubDate>
+      <guid>https://fatemakaniz.github.io/publication/landslide-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
